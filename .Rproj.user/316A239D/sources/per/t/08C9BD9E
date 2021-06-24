@@ -1,0 +1,28 @@
+{
+    "id": "08C9BD9E",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1623016844827.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "id": "98304fc81c114118b187c84212cb8042",
+        "name": "exp_model",
+        "title": "exp_model",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2446144782720,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1623016844827,
+    "read_only": false,
+    "read_only_alternatives": []
+}
