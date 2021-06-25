@@ -181,8 +181,8 @@ summary(exp_model)
 tour$bestact
 str(tour_exp)
 
-
-
-write.csv(new_tour,file = 'newtour.csv')
-
-
+#################################만족도 회귀분석 #############################
+tour_sat =new_tour
+tour_sat = tour_sat %>% select(!c(Country,shopitem,shopplace))
+stat_model = lm(Satisfaction~.,data=tour_sat)
+summary(sat_model)
